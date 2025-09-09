@@ -47,15 +47,6 @@ Start the development server using your preferred method and open your browser a
 
 ---
 
-## ▶️ Starting the Server
-
-To start the development server:
-
-```bash
-npm start
-```
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you want to improve the dashboard or fix issues:  
