@@ -33,14 +33,13 @@ Start the development server using your preferred method and open your browser a
 ## 🖥 Usage
 
 - Browse the list of cryptocurrencies ranked by market cap. 🏅  
-- Click on a coin (if implemented) to view detailed statistics. 🔍  
+- Click on a coin to view detailed statistics. 🔍  
 - Keep track of live market changes effortlessly. 📊
 
 ---
 
 ## 🌟 Future Improvements
 
-- 🔎 Add search functionality to quickly find coins.  
 - 📈 Include historical charts for price trends.  
 - 🌙 Implement dark/light mode.  
 - 🔄 Add sorting and filtering by market cap, volume, or price.
