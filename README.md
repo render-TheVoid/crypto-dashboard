@@ -19,7 +19,7 @@ Track top cryptocurrencies, their prices, market caps, rankings, and other essen
 
 - **Frontend:** React ⚛️  
 - **API:** CoinGecko API 🌐  
-- **Styling:** CSS / Tailwind 💅  
+- **Styling:** CSS 💅  
 - **State Management:** React Hooks 🔗
 
 ---
